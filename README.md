@@ -1,5 +1,5 @@
 # Breast-Cancer-Detection-ML
-Breast Cancer us a leading type of cancer in women accounting for 25% of all cases.
+Breast Cancer is a leading type of cancer in women accounting for 25% of all cases. In 2018 it resulted in 2 million new cases and 627,000 deaths.
 
 ## Background Information
 The dataset is created by William H.Wolberg physician at the University of Wisconsin Hospital. The features are computed through a digitized image of Fine Needle Aspirate of a breast mass. They describe the characteristic of cell nuclei which help in describing whether the cancer is benign or malignant.
