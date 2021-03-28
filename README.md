@@ -26,5 +26,16 @@ h. concave points (number of concave portions of the contour)
 i. symmetry 
 j. fractal dimension ("coastline approximation" - 1)
 
+The mean, standard error and "worst" or largest (mean of the three
+largest values) of these features were computed for each image,
+resulting in 30 features. For instance, field 3 is Mean Radius, field
+13 is Radius SE, field 23 is Worst Radius.
+
+All feature values are recoded with four significant digits.
+
+Missing attribute values: none
+
+Class distribution: 357 benign, 212 malignant
+
 ## Conclusion
 The ML model for the problem statement was created using python with the help of the dataset, and the ML model created with Random Forest models performed better than other Classification Model. Thus, for the given problem, the models created by Random Forest provided higher accuracy of 98%.
