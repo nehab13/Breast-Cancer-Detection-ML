@@ -1,17 +1,17 @@
 # Breast-Cancer-Detection-ML
 Breast Cancer us a leading type of cancer in women accounting for 25% of all cases.
 
-##Background Information
+## Background Information
 The dataset is created by William H.Wolberg physician at the University of Wisconsin Hospital. The features are computed through a digitized image of Fine Needle Aspirate of a breast mass. They describe the characteristic of cell nuclei which help in describing whether the cancer is benign or malignant.
 
 ## Business Goal
 Early diagnosis plays an important role in increasing the survival rate of women. The idea here is to building a model to predict whether a cancer is benign or malignant. 
 
 ## Data Description
-## Data Source : Kaggle
-## Data Source Link : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+Data Source : Kaggle
+Data Source Link : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
-## The Dataset used for the analysis includes the following columns:
+The Dataset used for the analysis includes the following columns:
 1) ID number 
 2) Diagnosis (M = malignant, B = benign) 
 3-32) 
